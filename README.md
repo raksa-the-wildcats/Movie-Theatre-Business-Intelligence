@@ -141,6 +141,3 @@ The client offers a theater dataset of loyalty members:
 
 ## Data Quality
 This is a real-world dataset, and it may contain data quality issues, such as inconsistencies, inaccuracies, and missing values. Various techniques will need to be applied to address these issues.
-
-## License
-[Insert license information here if applicable]
